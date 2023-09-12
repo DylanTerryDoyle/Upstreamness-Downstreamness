@@ -5,7 +5,7 @@ Data/WOITS_in_EXCEL includes the World Input Output Database 2013 Release excel 
 
 gvc_measures.py - defines functions to compute upstreamness, downstreamness and the rank-1 estimations. 
 
-data_analysis.ipynb - code for the analysis of the data from the WIOTD.
+data_analysis.ipynb - code for the analysis of the data from the WIOD.
 
 numerical_solutions.inpynb - code for the numerical approximations for the expectations to calculate the covariance and slope. Also gives compaison to simulatd random model.
 

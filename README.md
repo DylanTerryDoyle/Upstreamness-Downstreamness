@@ -1,5 +1,5 @@
 # upstreamness-downstreamness
-Code used in MSc Dissertation for Complex Systems Modelling: Correlation Between Upstreamness &amp; Downstreamness in Random Economies.
+Complex Systems Modelling MSc Dissertation: Correlation Between Upstreamness &amp; Downstreamness in Random Economies.
 
 Data/WOITS_in_EXCEL includes the World Input Output Database 2013 Release excel files (https://www.rug.nl/ggdc/valuechain/wiod/wiod-2013-release) Timmer et al (2015).
 
